@@ -9,7 +9,7 @@ A simple RESTful API built with **TypeScript**, **Node.js**, and **Express** tha
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/noteMakingApp.git
+git clone https://github.com/Rittin1/noteMakingApp.git
 cd noteMakingApp
 ```
 
