@@ -28,9 +28,8 @@ port=8080 (any local host port)
 ```
 
 ## Run the App
-### In Development Mode
 ```bash
-npm run dev
+npm start
 ```
 This uses `nodemon` to restart the server automatically on file changes.
 
