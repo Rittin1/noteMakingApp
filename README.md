@@ -71,7 +71,7 @@ curl -X DELETE http://localhost:8080/notes/<id>
 ## Folder Structure
 ``` 
 noteMakingApp/
-├── node_modules/
+├── node_modules/     #(ignored from Git)
 ├── package.json
 ├── tsconfig.json
 ├── nodemon.json
