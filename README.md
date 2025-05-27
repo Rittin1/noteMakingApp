@@ -68,6 +68,26 @@ curl -X PUT http://localhost:8080/notes/<id> -H "Content-Type: application/json"
 curl -X DELETE http://localhost:8080/notes/<id>
 ```
 
+## Folder Structure
+``` 
+noteMakingApp/
+├── node_modules/
+├── package.json
+├── tsconfig.json
+├── nodemon.json
+├── .env              # Your personal env file (ignored from Git)
+├── .gitignore
+└── src/
+    ├── index.ts
+    ├── controllers/
+    │   └── notes.ts
+    ├── db/
+    │   └── notes.ts
+    └── router/
+        ├── index.ts
+        └── notes.ts
+```
+
 
 
 
